@@ -1,0 +1,22 @@
+.main-container{
+  display: flex;justify-content: center;
+}
+
+.child-container{
+  display: flex;justify-content: center;
+  text-align: center;
+}
+
+
+img{
+  height: 300px;
+  width: 300px;
+}
+.pre{
+  color: rgb(194, 124, 19);
+}
+
+
+.next{
+  color: rgb(72, 71, 69);
+}
